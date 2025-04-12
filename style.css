@@ -1,0 +1,43 @@
+body {
+    background-color: #2A2C2F;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+}
+
+li {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.photo {
+    width: 286.48px;
+    height: 213px;
+    display: inline;
+}
+
+.place {
+    width: 460px;
+    height: 460px;
+}
